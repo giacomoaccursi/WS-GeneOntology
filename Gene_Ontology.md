@@ -101,3 +101,10 @@ La gene ontology come consorzio è nata nel 1998 quando i ricercatori che studia
 
 L'ontologia consente, in modo flessibile e dinamico, di fornire descrizioni comparabili di sequenze di geni e proteine omologhe in tutto lo spettro filogenetico.
 È collegata a molte altre ontologie biomediche e costituisce una base per la ricerca che applica l'informatica alla biologia e alla medicina. 
+
+---
+
+chapter 13
+
+L'analisi delle categorie geniche è un importante approccio di integrazione della conoscenza nelle scienze biomediche che combina basi di conoscenza come la Gene Ontology con elenchi di geni o di loro prodotti, che spesso sono il risultato di esperimenti high-throughput, ottenuti da esperimenti di laboratorio o di sintesi.
+Il risultato dei metodi biologici high-throughput è spesso un elenco composto da diverse centinaia di entità biologiche, che nel caso degli esperimenti di profilazione dell'espressione genica sono identificatori di geni o dei loro prodotti. Poichè un'entità biologica può avere diverse funzioni specifiche per il contesto, è difficile per l'uomo interpretare il risultato di un esperimento sulla base di questi elenchi. Gli approcci computazionali per accedeere alle conoscenze sulle caratteristiche biologiche giocano quindi un ruolo importante nella realizzazione di ricerche basate su esperimenti high-thoughput. Un mood pratico per rispondere alla domanda "cosa sta succedendo?" è quello di eseguire un'analisi per categorie di geni, cioè chiedere se questi geni di risposta condividono alcune caratteristiche biologiche che li distinguono dall'insieme di tutti i geni testati nell'esperimento. 
